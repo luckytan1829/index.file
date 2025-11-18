@@ -1,2 +1,17 @@
-# index.file
-file:///C:/Users/lucky%20ortega/OneDrive/lucky/activitiees/activity.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index.file</title>
+    <!DOCTYPE html>
+<html>
+<body>
+  <h1>My First Cloud Deployment</h1>
+  <h2>Hello, my name is Lucky Ryan Ortega</h2>
+  <img src="<img width="450" height="625" alt="image" src="https://github.com/user-attachments/assets/8c3fb9b2-9396-4afc-8b8c-001b3684fd69" />
+" width="200"/>
+  <p>This is my first deployed website!</p>
+</body>
+</html>
+
